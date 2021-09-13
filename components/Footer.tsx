@@ -7,28 +7,22 @@ export default function Footer() {
       <div className="container mx-auto">
         <div className="flex justify-center items-center">
           <a
-            href="https://youtube.com/MaxProgramming"
+            href="https://youtube.com/c/KavinduAj"
             target="_blank"
             style={{ marginRight: 15 }}
           >
             <FiYoutube color="red" size={40} />
           </a>
+
           <a
-            href="https://twitter.com/MaxProgramming1"
+            href="https://t.me/kavinduaj"
             target="_blank"
             style={{ marginRight: 15 }}
           >
-            <FiTwitter color="#1DA1F2" size={40} />
+            <FiTelegram color="#5851db" size={40} />
           </a>
           <a
-            href="https://instagram.com/usmansabuwala7/"
-            target="_blank"
-            style={{ marginRight: 15 }}
-          >
-            <FiInstagram color="#5851db" size={40} />
-          </a>
-          <a
-            href="https://github.com/max-programming"
+            href="https://github.com/kjeymax/kjeymax"
             target="_blank"
             style={{ marginRight: 15 }}
           >
