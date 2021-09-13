@@ -15,13 +15,6 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://t.me/kavinduaj"
-            target="_blank"
-            style={{ marginRight: 15 }}
-          >
-            <FiTelegram color="#5851db" size={40} />
-          </a>
-          <a
             href="https://github.com/kjeymax/kjeymax"
             target="_blank"
             style={{ marginRight: 15 }}
