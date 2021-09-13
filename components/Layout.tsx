@@ -13,13 +13,13 @@ export default function Layout({ title, children }: LayoutProps) {
   return (
     <div className='main-container'>
       <SEO
-        title={`${title} | Usman Sabuwala`}
+        title={`${title} | Kavindu AJ`}
         description="I'm Kavindu AJ, Developer, Student, and Content Creator."
         icon='/logo.png'
         twitter={{
           card: 'summary',
           image: '/Photo_1603283479401.png',
-          site: '@lkhitech',
+          site: 'https://lkhitech.blogspot.com',
         }}
         keywords={[
           'kavinduaj',
