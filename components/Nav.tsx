@@ -13,7 +13,7 @@ export default function Nav() {
         <NavLink href="/about" text="About" Icon={AboutIcon} />
         <a
           className="p-2 text-gray-100 outline-none rounded-xl transition-all border-4 border-transparent hover:border-indigo-300 flex items-center"
-          href="https://blog.usman-s.me"
+          href="https://lkhitech.blogspot.com"
         >
           <BlogIcon />
           Blog
