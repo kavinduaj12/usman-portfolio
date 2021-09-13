@@ -15,7 +15,7 @@ export default function About() {
         </h1>
         <div className="mt-3 text-xl">
           <p>
-            My name is Usman Sabuwala. I am {age} years old.
+            My name is Kavindu A Jeyawardana. I am 20 years old.
             <br />I like programming and building web applications and teaching
             about that on my{" "}
             <a
@@ -63,7 +63,7 @@ export default function About() {
               href="https://tailwindcss.com/"
             />
             <Technology
-              src="/technologies/electron.png"
+              src="/technologies/pylogo.png"
               href="https://www.python.org/"
             />
           </div>
