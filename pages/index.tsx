@@ -9,7 +9,7 @@ export default function Home() {
         <div className="flex justify-evenly items-center flex-col md:flex-row">
           <div>
             <Image
-              src="/usman.jpg"
+              src="/Photo_1603283479401.png"
               width={250}
               height={250}
               className="rounded-full shadow-lg"
