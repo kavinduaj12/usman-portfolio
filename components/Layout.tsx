@@ -14,23 +14,18 @@ export default function Layout({ title, children }: LayoutProps) {
     <div className='main-container'>
       <SEO
         title={`${title} | Usman Sabuwala`}
-        description="I'm Usman, Developer, Student, and Content Creator."
+        description="I'm Kavindu AJ, Developer, Student, and Content Creator."
         icon='/logo.png'
         twitter={{
           card: 'summary',
-          image: '/usman.jpg',
-          site: '@MaxProgramming1',
+          image: '/Photo_1603283479401.png',
+          site: '@lkhitech',
         }}
         keywords={[
-          'usman',
-          'usman sabuwala',
-          'max programming',
-          'max',
-          'usman website',
-          "usman's website",
-          'max programming website',
-          'usman sabuwala website',
-          'usman portfolio',
+          'kavinduaj',
+          'telegram',
+          'lkhitech'
+ 
         ]}
       />
       {/* <Head>
