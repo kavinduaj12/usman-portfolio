@@ -17,20 +17,21 @@ export default function Home() {
           </div>
           <div>
             <h2 className="text-4xl mb-3">
-              Hello there! I'm <b>Usman!</b>
+              Hello there! I'm <b>Kavindu AJ</b>
             </h2>
             <p className="text-xl">
-              👋 My name is <b>Usman Sabuwala</b>, a{" "}
+              👋 My name is <b>Kavindu A Jeywardana 😇</b>, a{" "}
               <span style={{ color: "#007acc" }}>web developer</span> from
-              India.
+              Sri Lanka.
               <br />
               👨‍💻 I love programming and that led me to meet many awesome people
               and friends. <br /> I learnt{" "}
+              <span style={{ color: "#DD4C25" }}>Python</span>,{" "}
               <span style={{ color: "#DD9C25" }}>JavaScript</span>,{" "}
               <span style={{ color: "#0076C6" }}>TypeScript</span>,{" "}
-              <span style={{ color: "#37D1F7" }}>React.js</span> and many other
-              awesome things. <br /> My other interests include playing cricket
-              and doing math 😉
+              <span style={{ color: "#37D1F7" }}>node.js</span> and many other
+              awesome things. <br /> My other interests include playing volleyball 🏐
+              and doing match 🥳
               <br />
             </p>
           </div>
