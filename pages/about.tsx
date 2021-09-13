@@ -19,7 +19,7 @@ export default function About() {
             <br />I like programming and building web applications and teaching
             about that on my{" "}
             <a
-              href="https://youtube.com/maxprogramming"
+              href="https://youtube.com/c/KavinduAj"
               className="text-red-700 font-semibold hover:underline"
               target="_blank"
             >
@@ -36,7 +36,7 @@ export default function About() {
             />
             <Technology
               src="/technologies/github.png"
-              href="https://github.com/"
+              href="https://github.com/kjeymax"
             />
             <Technology
               src="/technologies/node.png"
@@ -59,8 +59,12 @@ export default function About() {
               href="https://tailwindcss.com/"
             />
             <Technology
+              src="/technologies/pylogi.png"
+              href="https://tailwindcss.com/"
+            />
+            <Technology
               src="/technologies/electron.png"
-              href="https://electronjs.org/"
+              href="https://www.python.org/"
             />
           </div>
         </div>
